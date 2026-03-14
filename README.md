@@ -101,21 +101,31 @@ eda-sales-analysis
 │
 └── README.md
 ```
+---
 
 ## How to Run the Project
 
-Clone the repository:
+### 1. Clone the repository
 
+```bash
 git clone https://github.com/zaur-israfilov/eda-sales-analysis.git
 cd eda-sales-analysis
+```
 
-Install required libraries:
+### 2.Install required libraries
 
-pip install pandas matplotlib seaborn jupyter
+```bash
+pip install pandas matplotlib seaborn jupyter notebook
+```
 
-Run the notebook:
+### 3. Run the notebook:
 
+```bash
 jupyter notebook
+```
+### 4. Open the notebook:
+
+notebooks/eda_sales_analysis.ipynb
 
 ---
 
