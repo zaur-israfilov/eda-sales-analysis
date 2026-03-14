@@ -123,7 +123,7 @@ pip install pandas matplotlib seaborn jupyter notebook
 ```bash
 jupyter notebook
 ```
-### 4. Open the notebook:
+### 4. Open the following notebook in Jupyter::
 
 ```bash
 notebooks/eda_sales_analysis.ipynb
