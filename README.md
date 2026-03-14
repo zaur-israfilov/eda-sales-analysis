@@ -125,8 +125,9 @@ jupyter notebook
 ```
 ### 4. Open the notebook:
 
+```bash
 notebooks/eda_sales_analysis.ipynb
-
+```
 ---
 
 ## Author
