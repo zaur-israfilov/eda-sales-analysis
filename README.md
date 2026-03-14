@@ -83,17 +83,6 @@ The boxplot suggests that **weekend days (Sat, Sun)** tend to have higher bill v
 
 ---
 
-## Example Visualizations
-
-The notebook includes several visualizations:
-
-* Distribution of total bills
-* Tip vs total bill relationship
-* Bills by day of the week
-* Lunch vs dinner bill comparison
-
----
-
 ## Project Structure
 
 ```
