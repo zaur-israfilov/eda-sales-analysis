@@ -112,7 +112,7 @@ git clone https://github.com/zaur-israfilov/eda-sales-analysis.git
 cd eda-sales-analysis
 ```
 
-### 2.Install required libraries
+### 2. Install required libraries
 
 ```bash
 pip install pandas matplotlib seaborn jupyter notebook
