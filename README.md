@@ -58,6 +58,29 @@ The analysis was performed using:
 
 ---
 
+## Key Visual Insights
+
+### Distribution of Total Bills
+![Distribution of Total Bills](images/total_bill_distribution.png)
+
+This histogram shows that most restaurant bills fall between **10 and 25**, with fewer high-value transactions.
+
+---
+
+### Tip vs Total Bill
+![Tip vs Total Bill](images/tip_vs_total_bill.png)
+
+The scatterplot indicates a **positive relationship between total bill and tip amount**. Higher bills tend to generate larger tips.
+
+---
+
+### Total Bill by Day
+![Total Bill by Day](images/total_bill_by_day.png)
+
+The boxplot suggests that **weekend days (Sat, Sun)** tend to have higher bill variability and some high-value outliers.
+
+---
+
 ## Example Visualizations
 
 The notebook includes several visualizations:
