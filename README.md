@@ -8,9 +8,23 @@ The analysis focuses on identifying relationships between **total bill amount, t
 
 ---
 
+## Tools & Libraries
+
+The analysis was performed using:
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
 ## Dataset
 
 The dataset contains **244 observations** and **7 variables** describing restaurant bills.
+
+---
 
 ### Variables
 
@@ -26,17 +40,6 @@ The dataset contains **244 observations** and **7 variables** describing restaur
 
 ---
 
-## Tools & Libraries
-
-The analysis was performed using:
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
----
 
 ## Analysis Steps
 
