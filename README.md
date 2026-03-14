@@ -127,4 +127,7 @@ jupyter notebook
 
 ## Author
 
-**Zaur**
+**Zaur Israfilov**  
+Data Analyst | SQL • Python • Business Intelligence  
+
+LinkedIn: https://linkedin.com/in/zaur-israfilov-1524b925b
