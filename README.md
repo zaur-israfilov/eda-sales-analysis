@@ -49,14 +49,6 @@ The analysis was performed using:
 
 ---
 
-## Key Insights
-
-* Weekend days generate higher restaurant revenue.
-* Dinner transactions tend to have higher bills than lunch.
-* Larger bills generally result in larger tips.
-* No strong difference in tipping behavior between smokers and non-smokers.
-
----
 
 ## Key Visual Insights
 
@@ -64,6 +56,15 @@ The analysis was performed using:
 ![Distribution of Total Bills](images/total_bill_distribution.png)
 
 This histogram shows that most restaurant bills fall between **10 and 25**, with fewer high-value transactions.
+
+---
+
+## KKey Findings
+
+* Weekend days generate higher restaurant revenue.
+* Dinner transactions tend to have higher bills than lunch.
+* Larger bills generally result in larger tips.
+* No strong difference in tipping behavior between smokers and non-smokers.
 
 ---
 
