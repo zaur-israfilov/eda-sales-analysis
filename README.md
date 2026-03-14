@@ -41,7 +41,7 @@ The dataset contains **244 observations** and **7 variables** describing restaur
 ---
 
 
-## Analysis Steps
+## Analytical Approach
 
 1. Data loading and inspection
 2. Dataset structure analysis
