@@ -71,6 +71,7 @@ The notebook includes several visualizations:
 
 ## Project Structure
 
+```
 eda-sales-analysis
 │
 ├── data
@@ -82,8 +83,7 @@ eda-sales-analysis
 ├── images
 │
 └── README.md
-
----
+```
 
 ## How to Run the Project
 
