@@ -88,8 +88,8 @@ The boxplot suggests that **weekend days (Sat, Sun)** tend to have higher bill v
 
 ## Project Structure
 
-```
-eda-sales-analysis
+```eda-sales-analysis
+
 │
 ├── data
 │   └── sales_data.csv
@@ -98,6 +98,9 @@ eda-sales-analysis
 │   └── eda_sales_analysis.ipynb
 │
 ├── images
+│   ├── total_bill_distribution.png
+│   ├── tip_vs_total_bill.png
+│   └── total_bill_by_day.png
 │
 └── README.md
 ```
