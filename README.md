@@ -8,9 +8,23 @@ The analysis focuses on identifying relationships between **total bill amount, t
 
 ---
 
+## Tools & Libraries
+
+The analysis was performed using:
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+---
+
 ## Dataset
 
 The dataset contains **244 observations** and **7 variables** describing restaurant bills.
+
+---
 
 ### Variables
 
@@ -26,19 +40,8 @@ The dataset contains **244 observations** and **7 variables** describing restaur
 
 ---
 
-## Tools & Libraries
 
-The analysis was performed using:
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
----
-
-## Analysis Steps
+## Analytical Approach
 
 1. Data loading and inspection
 2. Dataset structure analysis
@@ -49,7 +52,32 @@ The analysis was performed using:
 
 ---
 
-## Key Insights
+
+## Key Visual Insights
+
+### Distribution of Total Bills
+![Distribution of Total Bills](images/total_bill_distribution.png)
+
+This histogram shows that most restaurant bills fall between **10 and 25**, with fewer high-value transactions.
+
+---
+
+
+### Tip vs Total Bill
+![Tip vs Total Bill](images/tip_vs_total_bill.png)
+
+The scatterplot indicates a **positive relationship between total bill and tip amount**. Higher bills tend to generate larger tips.
+
+---
+
+### Total Bill by Day
+![Total Bill by Day](images/total_bill_by_day.png)
+
+The boxplot suggests that **weekend days (Sat, Sun)** tend to have higher bill variability and some high-value outliers.
+
+---
+
+## Key Findings
 
 * Weekend days generate higher restaurant revenue.
 * Dinner transactions tend to have higher bills than lunch.
@@ -58,21 +86,10 @@ The analysis was performed using:
 
 ---
 
-## Example Visualizations
-
-The notebook includes several visualizations:
-
-* Distribution of total bills
-* Tip vs total bill relationship
-* Bills by day of the week
-* Lunch vs dinner bill comparison
-
----
-
 ## Project Structure
 
-```
-eda-sales-analysis
+```eda-sales-analysis
+
 │
 ├── data
 │   └── sales_data.csv
@@ -81,33 +98,44 @@ eda-sales-analysis
 │   └── eda_sales_analysis.ipynb
 │
 ├── images
+│   ├── total_bill_distribution.png
+│   ├── tip_vs_total_bill.png
+│   └── total_bill_by_day.png
 │
 └── README.md
 ```
+---
 
 ## How to Run the Project
 
-Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/zaur-israfilov/eda-sales-analysis.git
 cd eda-sales-analysis
 ```
 
-Install required libraries:
+### 2. Install required libraries
 
 ```bash
-pip install pandas matplotlib seaborn jupyter
+pip install pandas matplotlib seaborn jupyter notebook
 ```
 
-Run the notebook:
+### 3. Run the notebook:
 
 ```bash
 jupyter notebook
 ```
+### 4. Open the following notebook in Jupyter::
 
+```bash
+notebooks/eda_sales_analysis.ipynb
+```
 ---
 
 ## Author
 
-**Zaur**
+**Zaur Israfilov**  
+Data Analyst | SQL • Python • Business Intelligence  
+
+LinkedIn: https://linkedin.com/in/zaur-israfilov-1524b925b
