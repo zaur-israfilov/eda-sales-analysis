@@ -8,6 +8,18 @@ The analysis focuses on identifying relationships between **total bill amount, t
 
 ---
 
+## Missing Values Check
+
+Before performing deeper analysis, we check whether the dataset contains missing values.
+Handling missing data is an important step in ensuring the reliability of the analysis.
+
+Code cell
+`df.isnull().sum()`
+
+The dataset does not contain missing values, which means we can proceed with the analysis without performing data imputation or cleaning for null entries.
+
+---
+
 ## Tools & Libraries
 
 The analysis was performed using:
